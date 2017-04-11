@@ -1,6 +1,6 @@
-#Welcome to Castle Grimtol
+# Welcome to Castle Grimtol
 
-###Story
+### Story
 
 Brave Young Warrior our forces are failing and the enemy grows stronger everyday. I fear if we don't act now our people will be driven from their homes. These dark times have left us with one final course of action. We must cut the head off of the snake by assasinating the Dark Lord of Grimtol... Our sources have identified a small tunnel that leads into the rear of the castle.
 
@@ -9,7 +9,7 @@ Once you `sneak` through the tunnel you will need to find a way to disguise your
 Good Luck brave one.
 
 
-###Gameplay
+### Gameplay
 
 Castle Grimtol is a simple text based adventure game. You will need to know the following commands to play.
 
@@ -26,7 +26,7 @@ Castle Grimtol is a simple text based adventure game. You will need to know the 
 	- This command will list of the current items in your inventory
 
 
-###Rooms
+### Rooms
 
 There are several key rooms in this story. Entering a room will trigger an event. If you enter a room without the proper disguise chances are you will be killed. You will need to navigate throughout the castle avoiding dangerous locations and pick up the items necessary to complete the game. A basic breakdown of the rooms.
 
@@ -87,7 +87,7 @@ There are several key rooms in this story. Entering a room will trigger an event
 	Items: ["messenger overcoat"],
 	Exits: []
 
-###Victory Conditions
+### Victory Conditions
 You will likely succeed or fail in this game Here are some messages
 
 - DEATH MESSAGE: "You have died, the rebellion has failed."
